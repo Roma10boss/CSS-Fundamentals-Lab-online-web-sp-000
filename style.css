@@ -18,3 +18,10 @@ nav{
   padding:10;
   background: #ccc;
 }
+ figcaption {text-align: center;}
+ 
+ #feature-property p {
+   width: 800px;
+   margin-right: auto;
+   margin-left: auto;
+ }
